@@ -1,6 +1,6 @@
 {
-    "name": "sms_gateway",
-    "short_name": "sms_gateway",
+    "name": "sms_ai",
+    "short_name": "sms_ai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
